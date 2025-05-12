@@ -1,4 +1,4 @@
-# 🧠 Reput3: A Modular, Verifiable Reputation Layer for Web3
+# Reput3: A Modular, Verifiable Reputation Layer for Web3
 
 > zk-verified. AVS-attested. Sybil-resistant. The onchain “LinkedIn for builders.”
 
